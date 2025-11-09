@@ -1,0 +1,4 @@
+
+This folder is for sample data or notebooks.
+
+You can include a small CSV or example Jupyter notebook here for demonstration.
